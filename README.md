@@ -7,7 +7,7 @@ The objective of this project is to validate data quality, uncover accounting an
 
 ---
 
-## 🔍 SQL Queries & Key Analytical Insights
+##  SQL Queries & Key Analytical Insights
 
 ### 1. Data Quality & Patient Distribution Check
 ```sql
